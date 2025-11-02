@@ -55,4 +55,5 @@ if detd33==0:
         else:
             print("Duas retas paralelas")
     else:
+
         print("Parabola")
