@@ -1,6 +1,5 @@
 # Problema G - Serpente Dourada  -  submetido e aceito
 
-
 q = int(input())
 anos = input().split()
 n = 0
