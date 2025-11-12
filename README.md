@@ -1,2 +1,5 @@
-# Exercicios-HackerRank-Python
-Exercícios feitos no site HackerRank para treinar a lógica e o uso da linguagem Python
+## ⭐| Learning-Python !
+---
+Exercícios feitos para treinar a lógica de programação e o uso da linguagem Python.                                                                               
+Retirados do site HackerRank e de Maratonas de programação (internas e InterFatecs) , 
+
