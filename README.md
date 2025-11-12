@@ -7,7 +7,7 @@ Retirados de..
 
 ## Sobre as Internas
 - Os exercícios feitos das maratonas que ocorreram até 2024 são de training
-- Apartir de 2025.. *Athenas 3.0 entrou no jogo!*
+- Apartir de 2025.. *Atenas 3.0 entrou no jogo!*
 
 ## Internas 2025
 - Na pasta 'Internas 2025' há a pasta 'original', onde estão os exercicíos feitos durante as 4h30 de maratona
