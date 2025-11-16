@@ -1,5 +1,6 @@
 # Problema E - Adivinhe a estrutura  -  não submetido
-# erro principal: tratar a entrada como string, mas comparar como se fosse números.
+
+# erro principal: tratar a entrada como string, mas comparar como se fosse números
 
 n = int(input())
 
