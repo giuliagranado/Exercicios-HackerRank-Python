@@ -1,5 +1,8 @@
 # Problema D - Descendentes  -  não submetido
 
+# erro principal: passagem errada de valores ´p função,
+#                 retonar n re relações, inves da contagem acumulada
+
 n = int(input())    #número de relações de paternidade
 
 pai_filho = []      #lista para armazenar as relações de paternidade
